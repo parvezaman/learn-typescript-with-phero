@@ -1,3 +1,3 @@
 # learn-typescript-with-phero
 
-back again with ##ProgrammingHero to learn typescript
+back again with #Programming_Hero to learn typescript
