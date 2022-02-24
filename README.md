@@ -12,3 +12,8 @@ back again with #Programming_Hero to learn typescript
         occupation: "student"
     }
     ```
+    in `JS` if you find `person.nationality` you will get `undefined` as output which can lead you to `error` in the next step if you try find `person.natinality.id`. But `TS` will give you error on the first step so it will be easier for you to find the bugs in your codes.
+
+
+    # To run dependency and dev dependency
+    - to run dev dependencies you need to run `npx ...` eg. `npx tsc -v`
