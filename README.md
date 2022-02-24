@@ -1,5 +1,7 @@
 # learn-typescript-with-phero
 
+{:toc max_level=3 }
+
 back again with #Programming_Hero to learn typescript
 
 ## ***difference between js and ts***
@@ -27,6 +29,6 @@ back again with #Programming_Hero to learn typescript
     - to run dev dependencies you need to run `npx ...` eg. `npx tsc -v`
 
     ## Create and run `TS` files
-    - create a file called `index.ts`
-    - run `npx tsc --init` to create a `tsconfig.json`
-    - then run `npx tsc index.ts`
+    1. create a file called `index.ts`
+    2. run `npx tsc --init` to create a `tsconfig.json`
+    3. then run `npx tsc index.ts`
