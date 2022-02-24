@@ -18,6 +18,7 @@ back again with #Programming_Hero to learn typescript
     ## Install and run TS
     you can install Typescript in two ways;
     |install globally|install as developer dependancy|
+    |----------------|-------------------------------|
     |by installing it globally you can access it from anywhere and when someone is cloning your repo and installing `npm` they will also get the dependencies.|Only accessible withing the project you are working on.|
     |npm install -g typescript|npm install typescript --save-dev|
 
