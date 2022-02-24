@@ -25,3 +25,8 @@ back again with #Programming_Hero to learn typescript
 
     ## To run dependency and dev dependency
     - to run dev dependencies you need to run `npx ...` eg. `npx tsc -v`
+
+    ## Create and run `TS` files
+    - create a file called `index.ts`
+    - run `npx tsc --init` to create a `tsconfig.json`
+    - then run `npx tsc index.ts`
